@@ -1,0 +1,25 @@
+body {
+  background-color: sandybrown;
+}
+
+.sliders {
+  margin-left: 5rem;
+}
+
+img {
+  width: 17rem;
+}
+
+button {
+  width: 8.4rem;
+  height: 5rem;
+}
+
+@media screen and (min-width: 768px) {
+  .sliders {
+    margin-left: 30rem;
+    margin-top: 3rem;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
